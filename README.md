@@ -1,0 +1,1 @@
+PMIS is prison management and information system to manage the prisoners and prisoner related information in prisons.
